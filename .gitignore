@@ -1,0 +1,14 @@
+*.png
+.env
+.env.*
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
