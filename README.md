@@ -1,6 +1,7 @@
 # Real-Time Streaming Data Pipeline with Azure
 
-[![Azure Solution Architecture](Azure%20Solution%20Architecture.png)](Azure%20Solution%20Architecture.png)
+![Azure Solution Architecture](https://github.com/user-attachments/assets/5d4b8122-9ae4-4a16-9894-8f8538724933)
+
 
 ## Project Overview
 
